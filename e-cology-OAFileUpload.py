@@ -1,5 +1,4 @@
-#http://101.32.184.165/
-#http://101.32.184.165/cloudstore/rnbFTK5c.jsp
+
 import zipfile
 import random
 import sys
